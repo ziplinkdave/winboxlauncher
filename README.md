@@ -5,7 +5,7 @@ There are 3 files in this repo: A registry file to import into the registry, a V
 
 Once these files are installed and you've imported the registry entries, navigate to: 
 
-# winbox://ipaddress%20user%20password
+winbox://ipaddress%20user%20password
 
 It will open winbox and log you in without any annoying screens popping up.
 
